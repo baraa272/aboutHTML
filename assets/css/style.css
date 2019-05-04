@@ -1,0 +1,48 @@
+body{
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+#main{
+    color: black;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+p{
+    font-size: 24px;
+    line-height: 40px;
+}
+h1{
+    display: inline-block;
+}
+img{
+    width: 200px;
+    height: 200px;
+    float: right;
+    display: inline-block;
+}
+#sec{
+     color: black;
+    text-align: center;
+    width: 100%;
+}
+h2{
+    text-align: left;
+}
+#links{
+    text-align: center;
+    width: 100%;
+}
+ul{
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+}
+li{
+ 
+    
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    margin-right: 50px;
+}
